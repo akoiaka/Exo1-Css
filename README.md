@@ -4,4 +4,4 @@
   en s'inspirant de la maquette
   fournit dans le dossier "img".
 
-https://github.com/akoiaka/Exo1-Css/blob/master/index.html
+https://htmlpreview.github.io/?https://github.com/akoiaka/Exo1-Css/blob/master/index.html
