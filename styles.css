@@ -16,6 +16,11 @@ margin: 0;
 
 header {
   background-color: #1B6E76;
+  font-family: Dosis
+}
+section
+{
+  text-align: center;
 }
 
 .nav {
@@ -27,12 +32,7 @@ header {
   text-align: center;
 }
 
-.one {
-cursor: zoom-in;
-}
 
-.shrinkToFit {
-    cursor: zoom-in;
   }
 footer {
   background-position: center;
