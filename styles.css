@@ -1,0 +1,39 @@
+
+img {
+
+}
+
+h1 {
+text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+body {
+margin: 0;
+}
+
+header {
+  background-color: #1B6E76;
+}
+
+.nav {
+  text-align: right;
+
+}
+
+.logo {
+  text-align: center;
+}
+
+.one {
+cursor: zoom-in;
+}
+
+.shrinkToFit {
+    cursor: zoom-in;
+  }
+footer {
+  background-position: center;
+}
