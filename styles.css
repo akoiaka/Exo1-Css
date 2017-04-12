@@ -1,3 +1,9 @@
+header {
+font-family: Dosis;
+width: 100%;
+height: 200px;
+background-color: #1B6E76;
+}
 
 img {
 
@@ -5,35 +11,46 @@ img {
 
 h1 {
 text-align: center;
+text-transform: uppercase;
+color: white;
+margin-top: 50px;
 }
 
 h2 {
   text-align: center;
+  text-rendering: geometricPrecision;
+  color: white;
 }
 body {
 margin: 0;
 }
 
-header {
-  background-color: #1B6E76;
-  font-family: Dosis
-}
+
+
 section
 {
   text-align: center;
 }
 
 .nav {
+  margin-right: 20px;
   text-align: right;
+  color: white;
+  display: table-cell;
 
 }
 
 .logo {
-  text-align: center;
+float: left;
 }
 
 
   }
 footer {
-  background-position: center;
+text-align: center;
+}
+
+.one, .two, .three, .four
+{
+  width: 30%;
 }
